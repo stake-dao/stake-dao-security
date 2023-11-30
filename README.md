@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repositoru is dedicated to maintaining a transparent and comprehensive record of all security audits and disclosures related to vulnerabilities found in the Stake Dao ecosystem. Our commitment is to ensure the highest standards of security over the lifecycle of our products.
+This repository is dedicated to maintaining a transparent and comprehensive record of all security audits and disclosures related to vulnerabilities found in the Stake Dao ecosystem. Our commitment is to ensure the highest standards of security over the lifecycle of our products.
 
 ## Repository Structure
 
